@@ -56,6 +56,8 @@ const Footer = () => {
                     </a>
                 </nav>
             </footer>
+
+            {/*  this is where we have added our fronted */}
         </div>
     )
 }
